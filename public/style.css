@@ -1,0 +1,31 @@
+.container{
+    max-width: 955px;
+    border: 2px solid red;
+    /* margin: auto; */
+    height: 60vh;
+}
+.message{
+    background-color: grey;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 6px;
+    width: 20%;
+    /* color: red; */
+}
+.left{
+    color: red;
+    float: left;
+    clear: both;
+}
+.right
+{
+    color: aqua;
+    clear:both;
+    float: right;
+}
+
+#messageinp{
+    
+    width: 300px;
+    height: 20px;
+}
